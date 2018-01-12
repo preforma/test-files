@@ -1,0 +1,247 @@
+IC000	Q0	DSCF10002b.tif	0	1	run-3
+IC000	Q0	IMG_OK_channels.tif	0	1	run-3
+IC000	Q0	DSCF10002.tif	0	1	run-3
+IC000	Q0	montserrat2.tif	0	1	run-3
+IC000	Q0	DSC03635.tif	0	1	run-3
+IC001	Q0	BigTIFFSubIFD4.tif	0	1	run-3
+IC001	Q0	BigTIFFMotorola.tif	0	1	run-3
+IC001	Q0	Image30309.tif	0	1	run-3
+IC001	Q0	Image30309b.tif	0	1	run-3
+IC001	Q0	BigTIFFSubIFD8.tif	0	1	run-3
+IC001	Q0	BigTIFFMotorolaLongStrips.tif	0	1	run-3
+IC001	Q0	DSCF10002b_ko_magic.tif	0	1	run-3
+IC001	Q0	IMG_KOBigTiff.tif	0	1	run-3
+IC002	Q0	Planar tile2.tif	0	1	run-3
+IC002	Q0	00160792_00000695.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 7.tif	0	1	run-3
+IC002	Q0	DSCF10002_ko_type 2.tif	0	1	run-3
+IC002	Q0	neuschwanstein kostrips.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 9.tif	0	1	run-3
+IC002	Q0	SANY0038 ko spp4.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_tagtype 7.tif	0	1	run-3
+IC002	Q0	Image30304.tif	0	1	run-3
+IC002	Q0	neuschwanstein kostrips 2.tif	0	1	run-3
+IC002	Q0	DSCF10002 ko spp.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 6.tif	0	1	run-3
+IC002	Q0	IMG_KO date4.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_tagtype 10.tif	0	1	run-3
+IC002	Q0	00160792_00000696.tif	0	1	run-3
+IC002	Q0	Image50307t2.tif	0	1	run-3
+IC002	Q0	00160792_00000694.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 8.tif	0	1	run-3
+IC002	Q0	SANY0038 ko photo 4.tif	0	1	run-3
+IC002	Q0	DSCF10002 ko strips 2.tif	0	1	run-3
+IC002	Q0	Image20309.tif	0	1	run-3
+IC002	Q0	Image60307_1.tif	0	1	run-3
+IC002	Q0	00160792_00000692.tif	0	1	run-3
+IC002	Q0	Image50304.tif	0	1	run-3
+IC002	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC002	Q0	IndexedEP.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 10.tif	0	1	run-3
+IC002	Q0	DSCF10002 ko rps.tif	0	1	run-3
+IC002	Q0	DSC03635_ko_cardinality 5.tif	0	1	run-3
+IC003	Q0	DSCF10002 ko spp.tif	0	1	run-3
+IC003	Q0	DSCF10002 ko stripoff.tif	0	1	run-3
+IC003	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC003	Q0	DSCF10002 ko photo.tif	0	1	run-3
+IC003	Q0	DSCF10002 ko rps.tif	0	1	run-3
+IC004	Q0	Image20306.tif	0	1	run-3
+IC004	Q0	Image20308.tif	0	1	run-3
+IC004	Q0	Image60307_2.tif	0	1	run-3
+IC004	Q0	DSCF10002_ko_type 2.tif	0	1	run-3
+IC004	Q0	Image50307yc.tif	0	1	run-3
+IC004	Q0	Image40307.tif	0	1	run-3
+IC004	Q0	DSC03635_ko_tagtype 7.tif	0	1	run-3
+IC004	Q0	Image30304.tif	0	1	run-3
+IC004	Q0	Image30307j.tif	0	1	run-3
+IC004	Q0	Image30307tiled.tif	0	1	run-3
+IC004	Q0	sample.tif	0	1	run-3
+IC004	Q0	Image40304-6b.tif	0	1	run-3
+IC004	Q0	Image50306.tif	0	1	run-3
+IC004	Q0	Image30307t2.tif	0	1	run-3
+IC004	Q0	SANY0038.tif	0	1	run-3
+IC004	Q0	DSC03635_ko_tagtype 8.tif	0	1	run-3
+IC004	Q0	Image10308.tif	0	1	run-3
+IC004	Q0	Image40304-6.tif	0	1	run-3
+IC004	Q0	neuschwanstein.tif	0	1	run-3
+IC004	Q0	DSCF10002 ko spp.tif	0	1	run-3
+IC004	Q0	Image30306b.tif	0	1	run-3
+IC004	Q0	DSC03635_ko_tagtype 10.tif	0	1	run-3
+IC004	Q0	Image40306.tif	0	1	run-3
+IC004	Q0	Image50307t2.tif	0	1	run-3
+IC004	Q0	DSCF10002 ko stripoff.tif	0	1	run-3
+IC004	Q0	Image60304g.tif	0	1	run-3
+IC004	Q0	Image20309.tif	0	1	run-3
+IC004	Q0	Image60307_1.tif	0	1	run-3
+IC004	Q0	Image50304.tif	0	1	run-3
+IC004	Q0	DSC03635_ko_tagtype 6.tif	0	1	run-3
+IC004	Q0	Image30306.tif	0	1	run-3
+IC004	Q0	DSC03635_ko_tagtype 9.tif	0	1	run-3
+IC004	Q0	Image10307.tif	0	1	run-3
+IC004	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC004	Q0	IndexedEP.tif	0	1	run-3
+IC004	Q0	Image10309.tif	0	1	run-3
+IC004	Q0	Image30308.tif	0	1	run-3
+IC004	Q0	DSCF10002 ko photo.tif	0	1	run-3
+IC004	Q0	IMG_OK.tif	0	1	run-3
+IC004	Q0	IMG_KO date3.tif	0	1	run-3
+IC004	Q0	DSCF10002 ko rps.tif	0	1	run-3
+IC005	Q0	SANY0038 ko spp4.tif	0	1	run-3
+IC005	Q0	DSCF10002 ko spp.tif	0	1	run-3
+IC005	Q0	Image50304.tif	0	1	run-3
+IC005	Q0	DSC03635_ko_cardinality 5.tif	0	1	run-3
+IC006	Q0	neuschwanstein kostrips.tif	0	1	run-3
+IC006	Q0	Image40307.tif	0	1	run-3
+IC006	Q0	SANY0038 ko spp4.tif	0	1	run-3
+IC006	Q0	Image30304.tif	0	1	run-3
+IC006	Q0	Image10308.tif	0	1	run-3
+IC006	Q0	Image20309.tif	0	1	run-3
+IC006	Q0	Image10307.tif	0	1	run-3
+IC006	Q0	Image10309.tif	0	1	run-3
+IC007	Q0	Planar tile2.tif	0	1	run-3
+IC007	Q0	Image20306.tif	0	1	run-3
+IC007	Q0	Image50306.tif	0	1	run-3
+IC007	Q0	DSC03635_ko_tagtype 8.tif	0	1	run-3
+IC007	Q0	Planar tileB.tif	0	1	run-3
+IC008	Q0	Image40307.tif	0	1	run-3
+IC008	Q0	Image10308.tif	0	1	run-3
+IC008	Q0	Image40306.tif	0	1	run-3
+IC009	Q0	Image50307yc.tif	0	1	run-3
+IC009	Q0	Image40304-6b.tif	0	1	run-3
+IC009	Q0	Image40304-6.tif	0	1	run-3
+IC010	Q0	Image20306.tif	0	1	run-3
+IC010	Q0	Image20308.tif	0	1	run-3
+IC010	Q0	Image60307_2.tif	0	1	run-3
+IC010	Q0	DSCF10002_ko_type 2.tif	0	1	run-3
+IC010	Q0	Image50307yc.tif	0	1	run-3
+IC010	Q0	Image40307.tif	0	1	run-3
+IC010	Q0	DSC03635_ko_tagtype 7.tif	0	1	run-3
+IC010	Q0	Image30304.tif	0	1	run-3
+IC010	Q0	Image30307j.tif	0	1	run-3
+IC010	Q0	Image30307tiled.tif	0	1	run-3
+IC010	Q0	sample.tif	0	1	run-3
+IC010	Q0	Image40304-6b.tif	0	1	run-3
+IC010	Q0	Image50306.tif	0	1	run-3
+IC010	Q0	Image30307t2.tif	0	1	run-3
+IC010	Q0	SANY0038.tif	0	1	run-3
+IC010	Q0	DSC03635_ko_tagtype 8.tif	0	1	run-3
+IC010	Q0	Image10308.tif	0	1	run-3
+IC010	Q0	Image40304-6.tif	0	1	run-3
+IC010	Q0	neuschwanstein.tif	0	1	run-3
+IC010	Q0	DSCF10002 ko spp.tif	0	1	run-3
+IC010	Q0	Image30306b.tif	0	1	run-3
+IC010	Q0	DSC03635_ko_tagtype 10.tif	0	1	run-3
+IC010	Q0	Image40306.tif	0	1	run-3
+IC010	Q0	Image50307t2.tif	0	1	run-3
+IC010	Q0	DSCF10002 ko stripoff.tif	0	1	run-3
+IC010	Q0	Image60304g.tif	0	1	run-3
+IC010	Q0	Image20309.tif	0	1	run-3
+IC010	Q0	Image60307_1.tif	0	1	run-3
+IC010	Q0	Image50304.tif	0	1	run-3
+IC010	Q0	DSC03635_ko_tagtype 6.tif	0	1	run-3
+IC010	Q0	Image30306.tif	0	1	run-3
+IC010	Q0	DSC03635_ko_tagtype 9.tif	0	1	run-3
+IC010	Q0	Image10307.tif	0	1	run-3
+IC010	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC010	Q0	IndexedEP.tif	0	1	run-3
+IC010	Q0	Image10309.tif	0	1	run-3
+IC010	Q0	Image30308.tif	0	1	run-3
+IC010	Q0	DSCF10002 ko photo.tif	0	1	run-3
+IC010	Q0	IMG_OK.tif	0	1	run-3
+IC010	Q0	IMG_KO date3.tif	0	1	run-3
+IC010	Q0	DSCF10002 ko rps.tif	0	1	run-3
+IC011	Q0	BigTIFFSubIFD4.tif	0	1	run-3
+IC011	Q0	BigTIFFMotorola.tif	0	1	run-3
+IC011	Q0	Image30309.tif	0	1	run-3
+IC011	Q0	Image30309b.tif	0	1	run-3
+IC011	Q0	BigTIFFSubIFD8.tif	0	1	run-3
+IC011	Q0	BigTIFFMotorolaLongStrips.tif	0	1	run-3
+IC011	Q0	DSCF10002b_ko_magic.tif	0	1	run-3
+IC011	Q0	IMG_KOBigTiff.tif	0	1	run-3
+IC012	Q0	Image40308.tif	0	1	run-3
+IC012	Q0	Nonsense byteorder E.tif	0	1	run-3
+IC012	Q0	Lowercase byteorder E.tif	0	1	run-3
+IC013	Q0	Image30306b.tif	0	1	run-3
+IC014	Q0	IMG_KO_reuse.tif	0	1	run-3
+IC014	Q0	IMG_KO_overlap.tif	0	1	run-3
+IC014	Q0	IMG_KO_pointzero.tif	0	1	run-3
+IC014	Q0	IMG_KO_overlap2.tif	0	1	run-3
+IC014	Q0	SANY0038 ko x.tif	0	1	run-3
+IC015	Q0	Image20307.tif	0	1	run-3
+IC016	Q0	IMG_KO no ifds2.tif	0	1	run-3
+IC017	Q0	DSCF10002CI.tif	0	1	run-3
+IC017	Q0	Image40307.tif	0	1	run-3
+IC017	Q0	DSCF10002R.tif	0	1	run-3
+IC017	Q0	Image10308.tif	0	1	run-3
+IC017	Q0	DSCF10002C.tif	0	1	run-3
+IC017	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC017	Q0	IndexedEP.tif	0	1	run-3
+IC018	Q0	SANY0038 ko photo 3.tif	0	1	run-3
+IC018	Q0	DSC03635_ko_tagtype 10.tif	0	1	run-3
+IC018	Q0	SANY0038 ko photo 4.tif	0	1	run-3
+IC019	Q0	neuschwanstein kostrips.tif	0	1	run-3
+IC019	Q0	neuschwanstein kostrips 2.tif	0	1	run-3
+IC019	Q0	DSCF10002 ko strips 2.tif	0	1	run-3
+IC019	Q0	Image20309.tif	0	1	run-3
+IC019	Q0	DSCF10002 ko rps.tif	0	1	run-3
+IC020	Q0	neuschwanstein ko2.tif	0	1	run-3
+IC021	Q0	neuschwanstein kostrips.tif	0	1	run-3
+IC021	Q0	Image40307.tif	0	1	run-3
+IC021	Q0	SANY0038 ko spp4.tif	0	1	run-3
+IC021	Q0	Image30304.tif	0	1	run-3
+IC021	Q0	Image10308.tif	0	1	run-3
+IC021	Q0	Image20309.tif	0	1	run-3
+IC021	Q0	Image10307.tif	0	1	run-3
+IC021	Q0	Image10309.tif	0	1	run-3
+IC022	Q0	Planar tile2.tif	0	1	run-3
+IC022	Q0	Image50307t2.tif	0	1	run-3
+IC022	Q0	Image60307_1.tif	0	1	run-3
+IC023	Q0	Image50307t2.tif	0	1	run-3
+IC024	Q0	Image30307t2.tif	0	1	run-3
+IC025	Q0	Planar tileB.tif	0	1	run-3
+IC026	Q0	BilevelCC.tif	0	1	run-3
+IC027	Q0	Image60304g.tif	0	1	run-3
+IC028	Q0	DSCF10002P.tif	0	1	run-3
+IC029	Q0	DSCF10002T.tif	0	1	run-3
+IC030	Q0	DSCF10002C.tif	0	1	run-3
+IC031	Q0	DSCF10002Y.tif	0	1	run-3
+IC032	Q0	DSCF10002CI.tif	0	1	run-3
+IC033	Q0	montserrat.tif	0	1	run-3
+IC033	Q0	DSCF10002R.tif	0	1	run-3
+IC034	Q0	00160792_00000695.tif	0	1	run-3
+IC034	Q0	IMG_KO_pointzero.tif	0	1	run-3
+IC034	Q0	IMG_KO date4.tif	0	1	run-3
+IC034	Q0	00160792_00000696.tif	0	1	run-3
+IC034	Q0	00160792_00000694.tif	0	1	run-3
+IC034	Q0	00160792_00000692.tif	0	1	run-3
+IC034	Q0	Image30306.tif	0	1	run-3
+IC034	Q0	DSC03635_ko_cardinality 10.tif	0	1	run-3
+IC035	Q0	00160792_00000695.tif	0	1	run-3
+IC035	Q0	IMG_KO date2.tif	0	1	run-3
+IC035	Q0	IMG_KO date4.tif	0	1	run-3
+IC035	Q0	00160792_00000696.tif	0	1	run-3
+IC035	Q0	IMG_KO date5.tif	0	1	run-3
+IC035	Q0	00160792_00000694.tif	0	1	run-3
+IC035	Q0	00160792_00000692.tif	0	1	run-3
+IC035	Q0	DSC03635_ko_cardinality 10.tif	0	1	run-3
+IC035	Q0	IMG_KO date3.tif	0	1	run-3
+IC036	Q0	montserrat.tif	0	1	run-3
+IC037	Q0	sample.tif	0	1	run-3
+IC037	Q0	SANY0038.tif	0	1	run-3
+IC037	Q0	neuschwanstein.tif	0	1	run-3
+IC037	Q0	pc260001.tif	0	1	run-3
+IC037	Q0	IndexedEP.tif	0	1	run-3
+IC037	Q0	IMG_OK.tif	0	1	run-3
+IC037	Q0	KLEURTEST__ALT_LIDE120.tif	0	1	run-3
+IC038	Q0	IndexedEP.tif	0	1	run-3
+IC039	Q0	pc260001.tif	0	1	run-3
+IC039	Q0	hgfdhdgf.tif	0	1	run-3
+IC040	Q0	Image50307yc.tif	0	1	run-3
+IC040	Q0	DSCF10002Y.tif	0	1	run-3
+IC040	Q0	BilevelCC.tif	0	1	run-3
+IC040	Q0	hgfdhdgf.tif	0	1	run-3
+IC041	Q0	Image60306.tif	0	1	run-3
+IC041	Q0	GreyA.tif	0	1	run-3
+IC042	Q0	Image60306.tif	0	1	run-3
+IC042	Q0	GreyA.tif	0	1	run-3
+IC043	Q0	IMG_OK.tif	0	1	run-3
